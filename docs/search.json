@@ -4,41 +4,34 @@
     "href": "index.html",
     "title": "Computational Publishing Service Demo",
     "section": "",
-    "text": "Title:\nAuthor:\nORCID:\nDate:\nDOI:\nRepository URL:"
+    "text": "Title: Exhibition Catalogue - Prototype Demo\n This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   },
   {
-    "objectID": "index.html#based-on-baroque-ai-publication-prototype",
-    "href": "index.html#based-on-baroque-ai-publication-prototype",
-    "title": "Computational Publishing Service Demo",
-    "section": "Based on Baroque AI: Publication Prototype",
-    "text": "Based on Baroque AI: Publication Prototype"
-  },
-  {
-    "objectID": "index.html#part-of-the-series-baroque-toc",
-    "href": "index.html#part-of-the-series-baroque-toc",
-    "title": "Computational Publishing Service Demo",
-    "section": "Part of the series: Baroque TOC",
-    "text": "Part of the series: Baroque TOC\nProgramme instructions\n2023-03-17\n This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\nBook cover: Reworking of Baroque pearl with enamelled gold mounts set with rubies. Creative Commons CC0 1.0 Universal Public Domain Dedication. This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-  },
-  {
-    "objectID": "colophon.html",
-    "href": "colophon.html",
-    "title": "Colophon",
+    "objectID": "copyright-page.html",
+    "href": "copyright-page.html",
+    "title": "Copyright Page",
     "section": "",
-    "text": "Fork title:\nAuthor:\nORCID:\nDate:\nDOI:\nRepository:\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA\nOpen Science Lab - TIB Hannnover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
+    "text": "Publication metadata collected from the Thoth.pub GraphQL API. https://api.thoth.pub/graphiql\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHING AND LINKED OPEN DATA\nOpen Science Lab - TIB\nHannover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
   },
   {
-    "objectID": "collection003.html#history",
-    "href": "collection003.html#history",
-    "title": "Baroque painting",
-    "section": "History",
-    "text": "History\nNativity by Josefa de Óbidos, 1669, National Museum of Ancient Art, Lisbon The Council of Trent (1545–63), in which the Roman Catholic Church answered many questions of internal reform raised by both Protestants and by those who had remained inside the Catholic Church, addressed the representational arts in a short and somewhat oblique passage in its decrees. This was subsequently interpreted and expounded by a number of clerical authors like Molanus, who demanded that paintings and sculptures in church contexts should depict their subjects clearly and powerfully, and with decorum, without the stylistic airs of Mannerism. This return toward a populist conception of the function of ecclesiastical art is seen by many art historians as driving the innovations of Caravaggio and the Carracci brothers, all of whom were working (and competing for commissions) in Rome around 1600, although unlike the Carracci, Caravaggio persistently was criticised for lack of decorum in his work. However, although religious painting, history painting, allegories, and portraits were still considered the most noble subjects, landscape, still life, and genre scenes were also becoming more common in Catholic countries, and were the main genres in Protestant ones.\nThe term “Baroque” was initially used with a derogatory meaning, to underline the excesses of its emphasis. Others derive it from the mnemonic term “Baroco” denoting, in logical Scholastica, a supposedly laboured form of syllogism.[10] In particular, the term was used to describe its eccentric redundancy and noisy abundance of details, which sharply contrasted the clear and sober rationality of the Renaissance. It was first rehabilitated by the Swiss-born art historian, Heinrich Wölfflin (1864–1945) in his Renaissance und Barock (1888); Wölfflin identified the Baroque as “movement imported into mass”, an art antithetic to Renaissance art. He did not make the distinctions between Mannerism and Baroque that modern writers do, and he ignored the later phase, the academic Baroque that lasted into the 18th century. Writers in French and English did not begin to treat Baroque as a respectable study until Wölfflin’s influence had made German scholarship pre-eminent.\n\nNational variations\nLed by Italy, Mediterranean countries, slowly followed by most of the Holy Roman Empire in Germany and Central Europe, generally adopted a full-blooded Baroque approach.\nA rather different art developed out of northern realist traditions in 17th century Dutch Golden Age painting, which had very little religious art, and little history painting, instead playing a crucial part in developing secular genres such as still life, genre paintings of everyday scenes, and landscape painting. While the Baroque nature of Rembrandt’s art is clear, the label is less used for Vermeer and many other Dutch artists. Most Dutch art lacks the idealization and love of splendour typical of much Baroque work, including the neighbouring Flemish Baroque painting which shared a part in Dutch trends, while also continuing to produce the traditional categories in a more clearly Baroque style.\nIn France a dignified and graceful classicism gave a distinctive flavour to Baroque painting, where the later 17th century is also regarded as a golden age for painting. Two of the most important artists, Nicolas Poussin and Claude Lorrain, remained based in Rome, where their work, almost all in easel paintings, was much appreciated by Italian as well as French patrons."
+    "objectID": "essay.html#essay-text",
+    "href": "essay.html#essay-text",
+    "title": "Essay",
+    "section": "Essay Text",
+    "text": "Essay Text\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius cursus lacus eu aliquet. Etiam quis eros augue. Praesent aliquam, purus vitae consectetur rutrum, felis felis aliquam sapien, quis sodales lorem nibh molestie nibh. Aliquam vitae dui imperdiet, varius tortor at, facilisis neque. Cras fermentum at enim non facilisis. Proin euismod mauris et nisi aliquet sollicitudin. Donec sit amet elementum velit. Cras a quam iaculis, porta ipsum congue, consequat risus.\nMauris est purus, tempor sed odio quis, condimentum gravida nisl. Nulla facilisi. Integer commodo justo sed enim facilisis luctus. Sed suscipit vehicula tincidunt. Donec ac ornare tellus, malesuada tempor arcu. Aenean accumsan vitae leo in commodo. Etiam diam arcu, venenatis vitae mi eu, porta cursus mauris. Maecenas nisl neque, facilisis vitae cursus id, fringilla non augue. Morbi eu neque et metus accumsan pretium id feugiat sapien. Morbi sollicitudin sem non tortor cursus viverra.\nMauris eget justo eget est gravida tristique. In cursus lacinia dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque convallis consequat turpis, vel euismod justo lobortis sed. Proin sodales erat at porttitor rhoncus. Proin tincidunt felis sed dui ullamcorper, ut rutrum libero ultricies. In tincidunt rhoncus varius. Cras varius, turpis quis fermentum egestas, mauris nunc laoreet nibh, non lacinia nibh nisl ut massa."
   },
   {
-    "objectID": "paintings.html",
-    "href": "paintings.html",
-    "title": "Activity: Paintings catalogue in Jupyter Notebook",
+    "objectID": "painting-collection.html",
+    "href": "painting-collection.html",
+    "title": "Painting Collection",
     "section": "",
     "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q19930126\nTitle: Battle Painting\nYear: 1650\nCreator: Johann Heinrich Schönfeld\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19930364\nTitle: Rocky Landscape with Antique Ruins\nYear: 1657\nCreator: Nicolaes Pieterszoon Berchem\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19930472\nTitle: Riding School Before Ancient Ruins\nYear: 1750\nCreator: Pieter van Bloemen\nCopyright: public domain"
+  },
+  {
+    "objectID": "data-analysis.html",
+    "href": "data-analysis.html",
+    "title": "Data Analysis",
+    "section": "",
+    "text": "ModuleNotFoundError: No module named 'ipyleaflet'"
   }
 ]
