@@ -5,9 +5,9 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Baroque AI: Publication Prototype"
-  author: "Class participants"
-  date: "2023-04-14"
+  title: "Computational Publishing Service Demo"
+  author: "Simon Worthington"
+  date: "2024-03-22"
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
@@ -17,7 +17,7 @@ book:
   #  - video.ipynb
   #  - sw-collection.ipynb
   #  - html-test.html
-  repo-url: https://github.com/NFDI4Culture/catalogue-003
+  repo-url: https://github.com/NFDI4Culture/CPS-Demo
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
   cover-image: cover-smallalt.jpg
