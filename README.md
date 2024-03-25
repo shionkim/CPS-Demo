@@ -1,5 +1,7 @@
 # Computational Publishing Service Demo
 
+[Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Work plan](/wiki/Work-plan-and-existing-R&D)
+
 ## Prototype: Exhibition catalogue publication
 
 Simon Worthington, [simon.worthington@tib.eu](mailto:simon.worthington@tib.eu), NFDI4Culture. Open Science Lab, TIB. 03.2024
