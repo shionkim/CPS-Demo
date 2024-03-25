@@ -1,6 +1,6 @@
 # Computational Publishing Service Demo
 
-[Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Work plan]([wiki/Work-plan-and-existing-R&D](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D))
+[Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D)
 
 ## Prototype: Exhibition catalogue publication
 
