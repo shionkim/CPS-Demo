@@ -22,7 +22,7 @@ The publications will be authored using Jupyter Notebooks used via the Google Co
 
 The content of the demo will be a fictional exhibition catalogue of a collection of paintings from the Corpus of Baroque Ceiling Painting in Germany (CbDD).
 
-![](WARN_REPLACE_IMG_URL)
+![Workflow](images/cps-workflow.svg)
 
 [Link to drawing](https://docs.google.com/drawings/d/1YOS5C4GYxoWCXuSEN1039IjGtbEpYJRa1vXCraEugts/edit?usp=sharing) on Google Drive (commenting view)
 
@@ -43,3 +43,4 @@ License: MIT License http://www.apache.org/licenses/
 License information: [LICENSE](LICENSE)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
