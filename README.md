@@ -20,6 +20,8 @@ Value proposition: Provide a channel to audiences for cultural digital collectio
 
 The goal is to demonstrate automated multi-format publishing – web, PDF, ePub Docx, and  interactive Jupyter Notebooks – of content from digital cultural collections stored as Linked Open Data (LOD) on Wikidata and Wikibase, and from other APIs and LOD sources.
 
+The Jupyter Notebooks will be used in a virtual online environment 'Github Codespace' so that there are __zero-install__ overheads as a barrier for users.
+
 The publications will be authored using Jupyter Notebooks used via the Google Colab platform, from GitHub storage, and rendered to multi-format using the Jupyter Notebook wrapper platform Quarto. The publication will be published to GitHub.
 
 The content of the demo will be a fictional exhibition catalogue of a collection of paintings from the Corpus of Baroque Ceiling Painting in Germany (CbDD).
