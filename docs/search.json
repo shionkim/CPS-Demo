@@ -4,49 +4,34 @@
     "href": "index.html",
     "title": "Computational Publishing Service Demo",
     "section": "",
-    "text": "Title: Exhibition Catalogue - Prototype Demo\n This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Title: Exhibition Catalogue - Prototype Demo</span>"
-    ]
+    "text": "Title: Exhibition Catalogue - Prototype Demo\n This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   },
   {
     "objectID": "copyright-page.html",
     "href": "copyright-page.html",
     "title": "Copyright Page",
     "section": "",
-    "text": "Publication metadata collected from the Thoth.pub GraphQL API. https://api.thoth.pub/graphiql\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHING AND LINKED OPEN DATA\nOpen Science Lab - TIB\nHannover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Copyright Page</span>"
-    ]
+    "text": "Publication metadata collected from the Thoth.pub GraphQL API. https://api.thoth.pub/graphiql\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHING AND LINKED OPEN DATA\nOpen Science Lab - TIB\nHannover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
   },
   {
-    "objectID": "essay.html",
-    "href": "essay.html",
+    "objectID": "essay.html#essay-text",
+    "href": "essay.html#essay-text",
     "title": "Essay",
-    "section": "",
-    "text": "Essay Text\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius cursus lacus eu aliquet. Etiam quis eros augue. Praesent aliquam, purus vitae consectetur rutrum, felis felis aliquam sapien, quis sodales lorem nibh molestie nibh. Aliquam vitae dui imperdiet, varius tortor at, facilisis neque. Cras fermentum at enim non facilisis. Proin euismod mauris et nisi aliquet sollicitudin. Donec sit amet elementum velit. Cras a quam iaculis, porta ipsum congue, consequat risus.\nMauris est purus, tempor sed odio quis, condimentum gravida nisl. Nulla facilisi. Integer commodo justo sed enim facilisis luctus. Sed suscipit vehicula tincidunt. Donec ac ornare tellus, malesuada tempor arcu. Aenean accumsan vitae leo in commodo. Etiam diam arcu, venenatis vitae mi eu, porta cursus mauris. Maecenas nisl neque, facilisis vitae cursus id, fringilla non augue. Morbi eu neque et metus accumsan pretium id feugiat sapien. Morbi sollicitudin sem non tortor cursus viverra.\nMauris eget justo eget est gravida tristique. In cursus lacinia dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque convallis consequat turpis, vel euismod justo lobortis sed. Proin sodales erat at porttitor rhoncus. Proin tincidunt felis sed dui ullamcorper, ut rutrum libero ultricies. In tincidunt rhoncus varius. Cras varius, turpis quis fermentum egestas, mauris nunc laoreet nibh, non lacinia nibh nisl ut massa.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Essay</span>"
-    ]
+    "section": "Essay Text",
+    "text": "Essay Text\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius cursus lacus eu aliquet. Etiam quis eros augue. Praesent aliquam, purus vitae consectetur rutrum, felis felis aliquam sapien, quis sodales lorem nibh molestie nibh. Aliquam vitae dui imperdiet, varius tortor at, facilisis neque. Cras fermentum at enim non facilisis. Proin euismod mauris et nisi aliquet sollicitudin. Donec sit amet elementum velit. Cras a quam iaculis, porta ipsum congue, consequat risus.\nMauris est purus, tempor sed odio quis, condimentum gravida nisl. Nulla facilisi. Integer commodo justo sed enim facilisis luctus. Sed suscipit vehicula tincidunt. Donec ac ornare tellus, malesuada tempor arcu. Aenean accumsan vitae leo in commodo. Etiam diam arcu, venenatis vitae mi eu, porta cursus mauris. Maecenas nisl neque, facilisis vitae cursus id, fringilla non augue. Morbi eu neque et metus accumsan pretium id feugiat sapien. Morbi sollicitudin sem non tortor cursus viverra.\nMauris eget justo eget est gravida tristique. In cursus lacinia dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque convallis consequat turpis, vel euismod justo lobortis sed. Proin sodales erat at porttitor rhoncus. Proin tincidunt felis sed dui ullamcorper, ut rutrum libero ultricies. In tincidunt rhoncus varius. Cras varius, turpis quis fermentum egestas, mauris nunc laoreet nibh, non lacinia nibh nisl ut massa."
   },
   {
     "objectID": "painting-collection.html",
     "href": "painting-collection.html",
     "title": "Painting Collection",
     "section": "",
-    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q9395954\nTitle: Thomas of Villanova heals the sick\nYear: 1675\nCreator: Bartolomé Esteban Murillo\nCopyright: public domain\nWikidata link: http://www.wikidata.org/entity/Q10901792\nTitle: Midas and Bacchus\nYear: 1624\nCreator: Nicolas Poussin\nCopyright: public domain\nWikidata link: http://www.wikidata.org/entity/Q11772156\nTitle: The Little Fruit Seller\nYear: 1670\nCreator: Bartolomé Esteban Murillo\nCopyright: public domain",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Painting Collection</span>"
-    ]
+    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q9395954\nTitle: Thomas of Villanova heals the sick\nYear: 1675\nCreator: Bartolomé Esteban Murillo\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q10901792\nTitle: Midas and Bacchus\nYear: 1624\nCreator: Nicolas Poussin\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q11772156\nTitle: The Little Fruit Seller\nYear: 1670\nCreator: Bartolomé Esteban Murillo\nCopyright: public domain"
   },
   {
     "objectID": "data-analysis.html",
     "href": "data-analysis.html",
     "title": "Data Analysis",
     "section": "",
-    "text": "Content to follow",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Analysis</span>"
-    ]
+    "text": "Content to follow"
   }
 ]
