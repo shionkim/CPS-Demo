@@ -2,23 +2,23 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/NFDI4Culture/CPS-Demo?quickstart=1)
 
-Codespace is GitHub's virtual machine service - with 60 hours and 15GB per month on their free plan. With the link above you can run this demo in the browser. Codespaces are being used so that time cosuming local installs are avoided. The Codespace instance is your own virtual machine from which you can push commits back to a repository and will maintain its state on closing. See your codespaces [here](https://github.com/codespaces) and read support docs [here](https://docs.github.com/en/codespaces).
+Codespace is GitHub's virtual machine service - with 60 hours and 15 GB per month on their free plan. With the link above you can run this demo in the browser. Codespaces are being used so that time consuming local installs are avoided. The Codespace instance is your own virtual machine from which you can push commits back to a repository and will maintain its state on closing. See your codespaces [here](https://github.com/codespaces) and read support docs [here](https://docs.github.com/en/codespaces).
 
 The Codespace provided comes preconfigured for Jupyter Notebooks, Quarto, Python, and all the requirements needed.
 
-## Codespace user instuctions: 
+## Codespace user instructions: 
 
 Codespace provided a standard VSCode IDE app in the browser. As its a personal virtual VSCode IDE you can save work, and to push to Git you need to carry out usual Git workflows.
 
 ### Three step process
 
 1. **Run Codespace** First time use: Select create new codespace. Second time use: Select resume codespace.
-2. **Run Notebooks** First time running a Notebook you will be promopted to choose a Jupyter environment: Choose Python, select recommended. Once selected your runtime environment will save settings.
+2. **Run Notebooks** First time running a Notebook you will be prompted to choose a Jupyter environment: Choose Python, select recommended. Once selected your runtime environment will save settings.
 3. **Terminal: quarto preview, quarto render** Then the workflow is the standard workflow; Run Notebooks; save Notebooks; run Quarto commands in the Terminal - quarto help, quarto check, quarto preview, quarto render; then carry out any Git workflow as needed.
 
-Note: Codespaces are peristent and the last saved state will be present on resume.
+Note: Codespaces are persistent and the last saved state will be present on resume.
 
-To close or start Codespaces. Close Codespace from far bottom left Codesapce panel - you will be given options in command menu top, for stopping. To start Codespace go to the repo button or visit to start and siop any codeapce you have: https://github.com/codespaces
+To close or start Codespaces. Close Codespace from the far bottom left Codespace panel - you will be given options in the command menu top, for stopping. To start Codespace go to the repo button or visit to start and stop any Codespace you have: https://github.com/codespaces
 
 ---
 
