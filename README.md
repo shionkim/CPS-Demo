@@ -1,5 +1,7 @@
 # Computational Publishing Service Demo
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/NFDI4Culture/CPS-Demo?quickstart=1)
+
 [Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D)
 
 ## Prototype: Exhibition catalogue publication
