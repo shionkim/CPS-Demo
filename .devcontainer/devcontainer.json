@@ -1,5 +1,13 @@
 {
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-toolsai.jupyter"
+			]
+		}
+	},
 	"features": {
 		"ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {}
 	}
