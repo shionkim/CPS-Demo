@@ -2,6 +2,19 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/NFDI4Culture/CPS-Demo?quickstart=1)
 
+Codespace is GitHub's virtual machine service - with 60 hours and 15GB per month on their free plan. With the link above you can run this demo in the browser. Codespaces are being used so that timecosuming local installs are avoided. The Codespace instance is your own virtiual machine from which you can push commits back to a repository and will maintain its state on closing. See your codespaces [here](https://github.com/codespaces) and read support docs [here](https://docs.github.com/en/codespaces).
+
+The Codespace provided comes preconfigured for Jupyter Notebooks, Quarto, Python, and all the requirements needed.
+
+## Codepace user instuctions: 
+
+Codespace provided a standard VSCode app in the browser. As its is a personal virtual VSCode IDE you can save work, and to push to Git you need to carry out usual Git workflows.
+
+1. First time use: Select create new codespace. Second time use: Select resume codespace.
+2. First time running a Notebook you will be promopted to choose a Jupyter environment: Choose Python, select recommended. Once selected your runtime environment will save settings.
+3. Then the workflow is the standard workflow; Run Notebooks; save Notebooks; run Quarto commands in the Terminal - quarto help, quarto check, quarto preview, quarto render; then carry out any Git work needed.
+4. To close or start codespaces. Close codespace from far bottom left Codesapce panel - you will be given options in command menu top, for stopping. To start Codespace go to the repo button or visit to start and siop any codeapce you have: https://github.com/codespaces
+
 [Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D)
 
 ## Prototype: Exhibition catalogue publication
@@ -49,4 +62,3 @@ License: MIT License http://www.apache.org/licenses/
 License information: [LICENSE](LICENSE)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
