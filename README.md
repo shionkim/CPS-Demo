@@ -16,7 +16,11 @@ Codespace provided a standard VSCode IDE app in the browser. As its a personal v
 2. **Run Notebooks** First time running a Notebook you will be promopted to choose a Jupyter environment: Choose Python, select recommended. Once selected your runtime environment will save settings.
 3. **Terminal: quarto preview, quarto render** Then the workflow is the standard workflow; Run Notebooks; save Notebooks; run Quarto commands in the Terminal - quarto help, quarto check, quarto preview, quarto render; then carry out any Git workflow as needed.
 
-To close or start codespaces. Close codespace from far bottom left Codesapce panel - you will be given options in command menu top, for stopping. To start Codespace go to the repo button or visit to start and siop any codeapce you have: https://github.com/codespaces
+Note: Codespaces are peristent and the last saved state will be present on resume.
+
+To close or start Codespaces. Close Codespace from far bottom left Codesapce panel - you will be given options in command menu top, for stopping. To start Codespace go to the repo button or visit to start and siop any codeapce you have: https://github.com/codespaces
+
+---
 
 [Project issues](https://github.com/orgs/NFDI4Culture/projects/1/views/4) | [Wiki - Work plan](https://github.com/NFDI4Culture/CPS-Demo/wiki/Work-plan-and-existing-R&D)
 
