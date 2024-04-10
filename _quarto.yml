@@ -5,8 +5,8 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Computational Publishing Service Demo"
-  author: "Simon Worthington"
+  title: "Weikersheim, Residenzschloss"
+  author: "Team Redaktion"
   date: "2024-03-22"
   # this section determines which files will be added to the book as chapters
   chapters:
