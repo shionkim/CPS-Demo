@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Weikersheim, Residenzschloss - Gemälde-Sammlung</title>
+<title>Weikersheim, Residenzschloss - Data Visualisation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./data-analysis.html" rel="next">
-<link href="./essay.html" rel="prev">
+<link href="./data-analysis.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -75,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./painting-collection.html"><span class="chapter-title">Gemälde-Sammlung</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./datavis.html"><span class="chapter-title">Data Visualisation</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -143,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./painting-collection.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Gemälde-Sammlung</span></a>
+  <a href="./painting-collection.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gemälde-Sammlung</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -153,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./datavis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data Visualisation</span></a>
+  <a href="./datavis.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Data Visualisation</span></a>
   </div>
 </li>
     </ul>
@@ -169,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Gemälde-Sammlung</span></h1>
+<h1 class="title"><span class="chapter-title">Data Visualisation</span></h1>
 </div>
 
 
@@ -184,26 +183,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.</p>
-<p>The below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.</p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q29474642">http://www.wikidata.org/entity/Q29474642</a></p>
-<p>Title: The Birth of Benjamin</p>
-<p>Year: 1650</p>
-<p>Creator: Francesco Furini</p>
-<p>Copyright: public domain</p>
-<p><img src="painting-collection_files/figure-html/cell-2-output-2.png" class="img-fluid"></p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q29474644">http://www.wikidata.org/entity/Q29474644</a></p>
-<p>Title: Venetian Gala Concert</p>
-<p>Year: 1782</p>
-<p>Creator: Francesco Guardi</p>
-<p>Copyright: public domain</p>
-<p><img src="painting-collection_files/figure-html/cell-2-output-4.png" class="img-fluid"></p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q29474645">http://www.wikidata.org/entity/Q29474645</a></p>
-<p>Title: Q29474645</p>
-<p>Year: 1789</p>
-<p>Creator: Francesco Guardi</p>
-<p>Copyright: public domain</p>
-<p><img src="painting-collection_files/figure-html/cell-2-output-6.png" class="img-fluid"></p>
+<p>Graph SPARL from Wikibase: https://tinyurl.com/2aey9hps</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src=".\images/datavis.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Data visualisation</figcaption>
+</figure>
+</div>
 
 
 
@@ -443,18 +429,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./essay.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Aufsatz</span></span>
+      <a href="./data-analysis.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Datenanalyse</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./data-analysis.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-title">Datenanalyse</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.dev/NFDI4Culture/CPS-Demo/blob/main/painting-collection.ipynb" class="toc-action">Edit this page</a></p></div></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/NFDI4Culture/CPS-Demo/edit/main/datavis.qmd" class="toc-action">Edit this page</a></p></div></div></div></div></footer></body></html>
