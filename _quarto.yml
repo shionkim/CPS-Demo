@@ -11,14 +11,14 @@ book:
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
-    - copyright-page.ipynb
+    - impressum.ipynb
     - essay.ipynb
     - painting-collection.ipynb
     - data-analysis.ipynb
   repo-url: https://github.com/NFDI4Culture/CPS-Demo
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
-  cover-image: https://previous.bildindex.de/bilder/fmd10005860a.jpg
+  cover-image: images/fmd10005860a.jpg
 
 # Quarto allows commenting using either Hypothesis or Utterances
 # https://quarto.org/docs/reference/projects/books.html#comments
