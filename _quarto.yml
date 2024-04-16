@@ -14,6 +14,7 @@ book:
     - impressum.ipynb
     - essay.ipynb
     - painting-collection.ipynb
+    - cps_wb_queries.ipynb
     - data-analysis.ipynb
   repo-url: https://github.com/NFDI4Culture/CPS-Demo
   repo-actions: [edit]
