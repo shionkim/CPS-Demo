@@ -12,11 +12,11 @@ book:
   chapters:
     - index.qmd
     - impressum.ipynb
-    - essay.ipynb
-    - painting-collection.ipynb
+    - text.ipynb
+    - paintings.ipynb
+    - datavis.ipynb
     - cps_wb_queries.ipynb
-    - data-analysis.ipynb
-    - datavis.qmd 
+    - painting-collection.ipynb
   repo-url: https://github.com/NFDI4Culture/CPS-Demo
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
