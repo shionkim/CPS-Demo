@@ -15,7 +15,7 @@ book:
     - text.ipynb
     - paintings.ipynb
     - datavis.ipynb
-    - cps_wb_queries.ipynb
+    - rittersaal.ipynb
     - painting-collection.ipynb
   repo-url: https://github.com/NFDI4Culture/CPS-Demo
   repo-actions: [edit]
