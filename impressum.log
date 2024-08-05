@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.3)  29 JUL 2024 18:14
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.3)  30 JUL 2024 08:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,7 +311,7 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 ) (/home/codespace/.TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/home/codespace/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
 (/home/codespace/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/home/codespace/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -341,13 +341,13 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count310
 \Hy@pagecounter=\count311
 (/home/codespace/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 ) (/home/codespace/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count312
 (/home/codespace/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4040.
 Package hyperref Info: Hyper figures OFF on input line 4157.
@@ -389,7 +389,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (/home/codespace/.TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2024-05-23 v7.01i Hyperref driver for XeTeX
+File: hxetex.def 2024-07-10 v7.01j Hyperref driver for XeTeX
 \pdfm@box=\box64
 \c@Hy@AnnotLevel=\count318
 \HyField@AnnotCount=\count319
@@ -843,140 +843,47 @@ Underfull \hbox (badness 1184) in paragraph at lines 432--434
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
+[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
+ []
+
+
 
 [9]
-
-[10
-
-]
-Chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--460
+Underfull \hbox (badness 10000) in paragraph at lines 480--482
 []\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 465--469
-[]\TU/lmr/m/n/10 Description: Teil von: Schloss Weikersheim SaalbauWolfgang Beringer,
+Underfull \hbox (badness 1067) in paragraph at lines 491--501
+\TU/lmr/m/n/10 Wolfgang und Balthasar Katzenberger hat sich erhalten.[1] Darin wurde
  []
 
-File: paintings_files/figure-pdf/cell-3-output-2.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-2.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+[10]
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⋅ (U+22C5) in font [lmroman10-regular]:mapping=tex-text;!
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 472--474
+Underfull \hbox (badness 10000) in paragraph at lines 560--562
 []\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
  []
 
-File: paintings_files/figure-pdf/cell-3-output-4.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-4.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 486--488
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-File: paintings_files/figure-pdf/cell-3-output-6.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-6.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 500--502
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-File: paintings_files/figure-pdf/cell-3-output-8.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-8.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 514--516
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-
-
-[15]
-File: paintings_files/figure-pdf/cell-3-output-10.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-10.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 528--530
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-
-
-[17]
-File: paintings_files/figure-pdf/cell-3-output-12.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-12.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 542--544
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 549--553
-[]\TU/lmr/m/n/10 Description: Teil von: Schloss Weikersheim SaalbauWolfgang Beringer,
- []
-
-File: paintings_files/figure-pdf/cell-3-output-14.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-14.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 556--558
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 563--567
-[]\TU/lmr/m/n/10 Description: Teil von: Schloss Weikersheim SaalbauWolfgang Beringer,
- []
-
-File: paintings_files/figure-pdf/cell-3-output-16.png Graphic file (type bmp)
-<paintings_files/figure-pdf/cell-3-output-16.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 570--572
-[]\TU/lmr/m/n/10 Wikibase link: []$[][][][][] [] [] [] [][][][][][][][][][][][][] [][] [][][][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][] []
- []
-
-! Text line contains an invalid character.
-l.584 ^^[
-         [1;31m-------------------------------------------------------------... 
+! Undefined control sequence.
+l.567 \xc
+         3\x96stlich an den Rittersaal schlie\xc3\x9ft ein gro\xc3\x9fer, 1837 
 Here is how much of TeX's memory you used:
- 19902 strings out of 476178
- 369381 string characters out of 5785222
- 1931557 words of memory out of 5000000
- 42208 multiletter control sequences out of 15000+600000
- 564496 words of font info for 86 fonts, out of 8000000 for 9000
+ 19820 strings out of 476178
+ 365711 string characters out of 5785222
+ 1932557 words of memory out of 5000000
+ 42138 multiletter control sequences out of 15000+600000
+ 564488 words of font info for 85 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  90i,6n,123p,1006b,414s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on impressum.pdf (23 pages).
+Output written on impressum.pdf (14 pages).
